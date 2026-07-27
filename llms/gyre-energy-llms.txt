@@ -1,0 +1,24 @@
+# Gyre Energy
+
+> Gyre Energy is a UK-based climate-tech company that reduces cooling costs for cold storage facilities, data centers, and building portfolios by combining artificial intelligence with thermal energy storage. Gyre AI, a digital twin, shifts cooling cycles to run when grid energy is cheapest and greenest, paired with an integrated thermal energy storage "cold battery" and a real-time monitoring and controls layer. The company is a Speedinvest portfolio company and currently exposes no public developer API.
+
+## About
+
+- [Website](https://gyreenergy.com): Company overview — AI + thermal energy storage for cooling cost reduction.
+- [Solution](https://gyreenergy.com): Gyre AI digital twin, thermal energy storage cold battery, and monitoring and controls.
+- [Team](https://gyreenergy.com/team): The people behind Gyre Energy.
+
+## News
+
+- [News](https://gyreenergy.com/news): Company announcements and press releases (no RSS feed published).
+
+## Contact
+
+- [Get in touch](https://gyreenergy.com/contacts): Contact and sales inquiries.
+- [Estimate Savings](https://gyreenergy.com/sales): Cooling-cost savings estimator.
+- [LinkedIn](https://uk.linkedin.com/company/gyre-energy): Company LinkedIn profile.
+
+## Notes
+
+- No public developer API, API documentation, developer portal, OpenAPI specification, or GitHub organization was found as of 2026-07-19.
+- Backed by Speedinvest; secured $1.3m funding (July 2026) to support a major blue-chip deployment and global scaling.

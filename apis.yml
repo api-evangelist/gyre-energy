@@ -1,7 +1,31 @@
 aid: gyre-energy
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/gyre-energy.png
 name: Gyre Energy
-description: Gyre Energy is a company surfaced as a portfolio company of speedinvest and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Gyre Energy is a UK-based climate-tech company that reduces cooling costs for
+  operators of cold storage facilities, data centers, and building portfolios by
+  combining artificial intelligence with thermal energy storage. Its platform pairs
+  Gyre AI, a digital twin that learns a facility's thermal behavior and shifts cooling
+  cycles to run when grid energy is cheapest and greenest, with an integrated thermal
+  energy storage "cold battery" and a real-time monitoring and controls layer that
+  tracks temperature, energy use, and door-open events. The company reports up to 50%
+  lower cooling expenses, 38% verified energy cost savings at its first commercial cold
+  storage deployment, a 91% reduction in temperature excursions, and a payback period of
+  under 1.5 years. Gyre Energy is a portfolio company of Speedinvest and, as of July 2026,
+  secured $1.3m in funding to support a major blue-chip deployment and global scaling.
+  It currently exposes no public developer API, documentation, or developer portal; this
+  profile captures its identity and public web surface for the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/gyre-energy/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +35,40 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Energy
+- Climate Tech
+- Cooling
+- Cold Storage
+- Data Centers
+- Thermal Energy Storage
+- Artificial Intelligence
+- Energy Efficiency
+- Sustainability
+- IoT Monitoring
 apis: []
+common:
+- type: DomainSecurity
+  url: security/gyre-energy-domain-security.yml
+- type: LLMsTxt
+  url: llms/gyre-energy-llms.txt
+- type: Website
+  url: https://gyreenergy.com
+- type: Blog
+  url: https://gyreenergy.com/news
+- type: Support
+  url: https://gyreenergy.com/contacts
+- type: LinkedIn
+  url: https://uk.linkedin.com/company/gyre-energy
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
