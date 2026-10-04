@@ -53,7 +53,7 @@ tags:
 - Climate Tech
 - Cooling
 - Cold Storage
-- Data-Center
+- Data Center
 - Thermal Energy Storage
 - Artificial Intelligence
 - Energy Efficiency
@@ -71,6 +71,7 @@ tags_raw:
 - Energy Efficiency
 - Sustainability
 - IoT Monitoring
+- Data-Center
 apis: []
 common:
 - type: DomainSecurity
